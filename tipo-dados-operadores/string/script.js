@@ -1,0 +1,5 @@
+console.log('Oi, meu nome é Gustavo')
+console.log('Eu queria comprar um carro')
+console.log('Teste')
+console.log('Infinity')
+console.log(Infinity)
