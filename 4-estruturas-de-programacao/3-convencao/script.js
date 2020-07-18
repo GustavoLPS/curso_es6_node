@@ -6,3 +6,4 @@ let _nome = "teste3"
 // let !nome = "teste" erro
 let Nome = "teste"
 let seuNome = "teste"
+let seu_nome = "teste"
